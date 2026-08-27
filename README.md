@@ -6,9 +6,13 @@
 codex和workbuddy工作流，试试，别人推荐的。  
 早上堵车路上花的时候会从20min变成50min，试试，错峰上下班节约时间。
 ## 课外书
-(https://github.com/bojieli/ai-agent-book)
-(https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
-()
+(https://github.com/bojieli/ai-agent-book)  
+(https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)  
+(https://github.com/AlephAITech/WorkBuddyGuide)  
+
+
+
+
 
 # 前言
 最喜欢张国荣Leslie的一首歌《沉默是金》，也和领导说了事实和想法，专注自己提升，不会考虑自证。  
