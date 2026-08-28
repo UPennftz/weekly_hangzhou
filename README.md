@@ -10,7 +10,8 @@ codex和workbuddy工作流，试试，别人推荐的。
 (https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)  
 (https://github.com/AlephAITech/WorkBuddyGuide)  
 
-
+### less important
+https://github.com/Muennighoff/prefix-sliding
 
 
 
