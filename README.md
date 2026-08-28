@@ -1,8 +1,20 @@
 # 周记/日记
 20260814余天和我大致说了，当务之急是找到感兴趣的地方，已经暂定。也说了一下自己的思考，继续努力。对于数据方向来说可以当作第二方向。  
+## ToDoList
 靠思考而不是靠内卷。  
-训练：一段时间内的高效专注。  
+训练：一段时间内的高效专注，邓煜（围棋~数学）。  
 codex和workbuddy工作流，试试，别人推荐的。  
+早上堵车路上花的时候会从20min变成50min，试试，错峰上下班节约时间。
+## 课外书
+https://github.com/bojieli/ai-agent-book  
+https://github.com/awesome-dsh-plugin/awesome-dsh-plugin  
+https://github.com/AlephAITech/WorkBuddyGuide  
+
+### less important
+https://github.com/Muennighoff/prefix-sliding
+
+
+
 # 前言
 最喜欢张国荣Leslie的一首歌《沉默是金》，也和领导说了事实和想法，专注自己提升，不会考虑自证。  
 刷到一篇推文，还挺有意思的：[为何量化同样重视“数学家思维”](https://mp.weixin.qq.com/s/V_b5Vuw7hdlttUJS_OeIhg)，本来Quant的最小单位也是一个人嘛（笑）  
