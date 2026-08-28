@@ -6,9 +6,9 @@
 codex和workbuddy工作流，试试，别人推荐的。  
 早上堵车路上花的时候会从20min变成50min，试试，错峰上下班节约时间。
 ## 课外书
-(https://github.com/bojieli/ai-agent-book)  
-(https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)  
-(https://github.com/AlephAITech/WorkBuddyGuide)  
+https://github.com/bojieli/ai-agent-book  
+https://github.com/awesome-dsh-plugin/awesome-dsh-plugin  
+https://github.com/AlephAITech/WorkBuddyGuide  
 
 ### less important
 https://github.com/Muennighoff/prefix-sliding
