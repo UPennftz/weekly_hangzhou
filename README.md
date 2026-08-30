@@ -32,3 +32,5 @@ https://github.com/Muennighoff/prefix-sliding
 20260822 SAT 1200-1430 继续学习RDMA 下午亚奥高中同学聚餐 明天接着学  
 20260823 SUN 0930-1420 remote  
 20260825 TUE 下午下班前林云雷突然拉开机房的门问我柯文斌在哪。后面目测应该是正常同事small talk和业务交流。  
+20260829 SAT 早上午  
+20260830 SUN 中午晚上  
