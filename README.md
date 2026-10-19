@@ -5,7 +5,7 @@
 靠思考而不是靠内卷。  
 训练：一段时间内的高效专注，邓煜（围棋~数学）。  
 codex和workbuddy工作流，试试，别人推荐的。  
-早上堵车路上花的时候会从20min变成50min，试试，错峰上下班节约时间。
+~~早上堵车路上花的时候会从20min变成50min，试试，错峰上下班节约时间。~~（不行，20261019余天说出早上vpn故障了，哪怕0750出门到了也是0845，早高峰非常堵，不具备预测的可能性）
 ## 课外书
 https://github.com/bojieli/ai-agent-book  
 https://github.com/awesome-dsh-plugin/awesome-dsh-plugin  
